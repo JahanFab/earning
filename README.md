@@ -335,17 +335,5 @@ Possible improvements:
 
 ------------------------------------------------------------------------
 
-# Technologies Used
 
-  Technology      Purpose
-  --------------- -----------------------
-  Python          Programming
-  Pandas          Data processing
-  NumPy           Numerical computation
-  NLP             Text analysis
-  Matplotlib      Visualization
-  Yahoo Finance   Market data
-  Regex           Text processing
-
-------------------------------------------------------------------------
 
